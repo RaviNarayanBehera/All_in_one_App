@@ -1,4 +1,5 @@
 import 'package:all_in_one_app/screens/home_page.dart';
+import 'package:all_in_one_app/screens/splash_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -13,7 +14,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       routes: {
-        '/' : (context) => const HomePage(),
+        '/' : (context) => const SplashScreen(),
+        '/home' : (context) => const HomePage(),
       },
     );
   }
