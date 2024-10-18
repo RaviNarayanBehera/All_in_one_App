@@ -15,5 +15,5 @@
 
 # Video
 <div align = "center">
-<video src="https://github.com/user-attachments/assets/98770e1c-845e-4c17-ad0e-be614e2ce825">
+<video src="">
 </div>
