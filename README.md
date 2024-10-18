@@ -1,16 +1,19 @@
-# all_in_one_app
+# All In One App📱
 
-A new Flutter project.
+# Screen View
+<h1 align = "center">
+  <img src="https://github.com/user-attachments/assets/c151fb2d-bd22-4249-bd59-f0e869e93f56" height=65%  width=22%>
+  <img src="https://github.com/user-attachments/assets/caeea97b-7179-4d8e-8ed6-5918433a4c87" height=65%  width=22%>
+</h1>
 
-## Getting Started
+# App View
+<h1 align = "center">
+  <img src="https://github.com/user-attachments/assets/09459c50-94ef-4cf3-9b42-a0c2ec58ca68" height=65%  width=22%>
+  <img src="https://github.com/user-attachments/assets/f42b2593-fc3a-458d-86d7-e8e07bdc70d5" height=65%  width=22%>
+  <img src="https://github.com/user-attachments/assets/663517f3-289f-4086-ac81-48f4479ef438" height=65%  width=22%>
+</h1>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Video
+<div align = "center">
+<video src="https://github.com/user-attachments/assets/98770e1c-845e-4c17-ad0e-be614e2ce825">
+</div>
